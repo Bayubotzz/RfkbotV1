@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['085725924473'] // Put your number here //owner eval
-global.kontak = ['085725924473','0'] //Ketika ada yang ngetik #owner
-global.mods = ['0'] // Want some help?
-global.prems = ['085725924473'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/Gj0kHatV2AoFyL2WyTTv2o', ''] // ganti jadi group lu
+global.owner = ['089525518325'] // Put your number here //owner eval
+global.kontak = ['089525518325','0'] //Ketika ada yang ngetik #owner
+global.mods = ['089525518325'] // Want some help?
+global.prems = ['089525518325'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -53,20 +53,20 @@ namakontak2 = 'KAKA BOT'
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By KAKA BOT' // ganti aja
-global.author = 'KAKA BOT' // ganti aja
+global.packname = 'By ELAINA-BOT' // ganti aja
+global.author = 'Bayu OFC' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //KAKA BOT Broadcast
-footer = '\n©KAKA BOT'
-namabot = 'KAKA BOT'
-namalu = 'KAKA BOT'
+bc = 'Bayu OFC' //KAKA BOT Broadcast
+footer = '\n©ELAINA-BOT'
+namabot = 'ELAINA-BOT'
+namalu = 'BAYU OFC'
 
 
 // 
 wait = '_*Tunggu Sebentar...*_'
 global.wait = '_*Tunggu Sebentar...*_'
-global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
+global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/Gj0kHatV2AoFyL2WyTTv2o'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
 
